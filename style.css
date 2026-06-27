@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.top-bar {
+    display: flex;
+    background-color: #000000;
+    color: aliceblue;
+    height: 8vh;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 220px;
+}
+
+h1 {
+    font-style: italic;
+    color: aquamarine;
+    margin-left: 10px;
+}
+
+#name {
+    font-size: 19px;
+}
